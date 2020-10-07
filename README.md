@@ -1,0 +1,2 @@
+# headstart-october
+Hello People, On this journey of growing together and upgrading yourself , our first building block will be to ‘strengthen the fundamentals’ and for achieving that goal - DSC PCCOE presents ‘#HeadstartOctober’ in which we have a power packed series of workshops which would help passionate beginners to understand the basics and also help the experienced to revise these concepts and build projects.
